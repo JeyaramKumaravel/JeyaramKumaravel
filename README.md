@@ -19,7 +19,7 @@ Here are some of my notable projects:
 
 * **\[StaticsDiary]**
 
-  * \[Next.js, React, TypeScript, Node.js, Tailwind CSS]
+  * \Next.js, React, TypeScript, Node.js, Tailwind CSS
   * A personal finance tracker with interactive charts, responsive UI, and PWA deployment. Built with reusable components for performance and scalability.
   * \[Link to Project 1 Repository]
 
@@ -37,6 +37,6 @@ Here are some of my notable projects:
 
 Feel free to connect with me:
 
-* **GitHub:** \[https://github.com/JeyaramKumaravel]
-* **LinkedIn:** \[https://linkedin.com/in/jeyaram-k]
-* **Email:** \[ramvel2002@gmail.com]
+* **GitHub:** \https://github.com/JeyaramKumaravel
+* **LinkedIn:** \https://linkedin.com/in/jeyaram-k
+* **Email:** \ramvel2002@gmail.com
