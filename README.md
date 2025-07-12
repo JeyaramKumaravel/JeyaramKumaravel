@@ -17,11 +17,11 @@ I'm a passionate and detail-oriented software developer with a Master's in Compu
 
 Here are some of my notable projects:
 
-* **\StaticsDiary**
+* **StaticsDiary**
 
   * Next.js, React, TypeScript, Node.js, Tailwind CSS
   * A personal finance tracker with interactive charts, responsive UI, and PWA deployment. Built with reusable components for performance and scalability.
-  * \[Link to Project 1 Repository]
+  * [\[Link to Project 1 Repository]](https://github.com/JeyaramKumaravel/staticsdaily)
 
 * **\[Project 2 Name]**
 
