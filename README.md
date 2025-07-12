@@ -13,26 +13,6 @@ I'm a passionate and detail-oriented software developer with a Master's in Compu
 * **Databases:** MySQL, SQLite, MongoDB
 * **Tools \& Platforms:** Git, GitHub, Docker, AWS, Cursor, n8n
 
-## Projects
-
-Here are some of my notable projects:
-
-* **StaticsDiary**
-
-  * Next.js, React, TypeScript, Node.js, Tailwind CSS
-  * A personal finance tracker with interactive charts, responsive UI, and PWA deployment. Built with reusable components for performance and scalability.
-  * https://github.com/JeyaramKumaravel/staticsdaily
-
-* **\[Project 2 Name]**
-
-  * A brief description of Project 2.
-  * https://github.com/JeyaramKumaravel/StaticsDiaryTool
-
-* **\[Project 3 Name]**
-
-  * A brief description of Project 3.
-  * https://github.com/JeyaramKumaravel/ocr-tool
-
 ## Contact
 
 Feel free to connect with me:
